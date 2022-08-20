@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rakshit-gautam-portfolio/static/css/main.ba2d5477.css",
+    "main.js": "/rakshit-gautam-portfolio/static/js/main.f9e9b358.js",
+    "static/media/Cover.jpg": "/rakshit-gautam-portfolio/static/media/Cover.6ff42dc53edf280f0707.jpg",
+    "static/media/Main.jpg": "/rakshit-gautam-portfolio/static/media/Main.eefe0d18e863499ecf1c.jpg",
+    "static/media/Resume.pdf": "/rakshit-gautam-portfolio/static/media/Resume.4e99265306da690d0d9f.pdf",
+    "static/media/Box-Office.jpg": "/rakshit-gautam-portfolio/static/media/Box-Office.b5429de60acd170374c3.jpg",
+    "static/media/Supriya.jpg": "/rakshit-gautam-portfolio/static/media/Supriya.a09e990231d41ead12d2.jpg",
+    "static/media/Akshat.jpg": "/rakshit-gautam-portfolio/static/media/Akshat.956a0b9378baebc0dc8f.jpg",
+    "static/media/Tech-Blog.jpg": "/rakshit-gautam-portfolio/static/media/Tech-Blog.445689c6b148969212e5.jpg",
+    "static/media/Ecommerce.jpg": "/rakshit-gautam-portfolio/static/media/Ecommerce.2b4ccf7ae4b01791717d.jpg",
+    "index.html": "/rakshit-gautam-portfolio/index.html",
+    "main.ba2d5477.css.map": "/rakshit-gautam-portfolio/static/css/main.ba2d5477.css.map",
+    "main.f9e9b358.js.map": "/rakshit-gautam-portfolio/static/js/main.f9e9b358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2d5477.css",
+    "static/js/main.f9e9b358.js"
+  ]
+}
